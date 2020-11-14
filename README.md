@@ -6,5 +6,5 @@
 4. After replacing data with your variables, run the following command: `python3 main.py $API_KEY $POSTAL_CODE $PRODUCT_SKU`
 
 
-You can easily include email, SOS, or form bot functionality.
+You can easily include email, SMS, or form bot functionality.
 This simple script will return all relevent data to help you get started. 
